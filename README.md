@@ -1,2 +1,3 @@
 # Iris-Flower-Classification-TensorFlow
+TensorFlow is an open-source machine learning framework developed by Google. It provides a comprehensive ecosystem of tools, libraries, and resources for building and deploying machine learning models. TensorFlow supports various tasks such as deep learning, neural networks, reinforcement learning, and more. It's widely used in both research and production environments due to its flexibility, scalability, and extensive community support.
 Using TensorFlow, this project classifies Iris flower species based on sepal and petal measurements. It showcases TensorFlow's prowess in building accurate classification models, serving as a concise example of machine learning in botanical analysis.
